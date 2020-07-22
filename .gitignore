@@ -1,0 +1,11 @@
+.idea/
+.git/
+scribble/
+venv/
+
+*.egg-info/
+*.pyc
+
+*.xml
+*.zip
+*.log
