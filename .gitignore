@@ -2,6 +2,7 @@
 .git/
 scribble/
 venv/
+__pycache__/
 
 *.egg-info/
 *.pyc

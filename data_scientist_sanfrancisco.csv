@@ -1,0 +1,374 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,Machine Learning Engineer / Data Scientist,-1,"The Opportunity
+
+Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
+
+Reporting directly to the Head of Data Science, you will be at the center of what determines Eversight's success as a company. You will analyze the data and develop production code using the newest Data Science and Machine Learning techniques to determine the optimal prices and promotions for major product manufacturers and retailers that sell these products.
+
+Responsibilities
+Generate ideas and quickly turn them into efficient, well-tested, functioning code in our Python codebase.
+Partner with the Engineering team to create highly scalable solutions.
+Research, implement and modify modern Data Science techniques. More specifically:
+Build Statistical and Machine Learning models that describe the impact of prices and promotions on shopper behavior, including behavioral pricing effects. You'll need to find middle ground between using flexible modern AI methods and proven classical methods.
+Develop Optimization and Experiment Design systems, which determine the best prices to set for each product in each store each week. Finding a good balance on the exploration-exploitation tradeoff will be crucial.
+Design and run pricing experiments across hundreds of stores and tens of thousands of products
+Create model validation methods to make sure that our models are accurate and to quantify the impact of our solutions on the clients' bottom line
+Serve as the Data Science expert both within Eversight and for our clients
+Lead custom analyses and connect them to actionable Business and Product insights
+Help prioritize new feature development by assessing potential impact
+Be a go-to resource for science-related questions about the product
+Behavioral Profile
+Analytical, framework thinker
+Comfortable in a fast-paced environment
+Highly collaborative
+Strong at translating Data Science concepts to non-technical audiences
+Business focused; measures work in its contributions to business outcomes and prioritizes effort against deliverables accordingly
+Skills and Experience
+S. in Operations Research, Machine Learning, Statistics, Mathematics, Engineering, Economics, Computer Science or relevant quantitative field
+2+ years of experience in Data Science or Machine Learning. Ph.D. experience accepted
+Knowledge of common data structures, libraries and ability to write efficient code in Python
+Elite ability in: Linear Algebra, Hypothesis Testing, Bayesian Methods, Regressions, Calculus, Statistics
+Experience in Machine Learning methods: Neural Networks (Deep Learning, Embeddings, Sequence Modeling, CNN), Tree-based methods (GBDT, Random Forest), Regressions (Linear, GLM), Regularization Methods (L1/L2 penalties, Feature Selection, Dimensionality Reduction)
+Experience in A/B testing and Design of Experiments preferred
+Demand Modeling, Pricing, and Causal Inference experience preferred but optional
+Agile experience preferred
+Location
+
+Palo Alto, CA
+
+About the Company
+
+Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, Frito-Lay, Raley's, and Rite Aid. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.",4.2,"Eversight
+4.2","Palo Alto, CA","Palo Alto, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1
+1,Senior Data Scientist,$169K-$266K (Glassdoor Est.),"The world's first customer platform helping internet businesses accelerate growth
+
+
+Intercom builds a suite of products that provide modern internet businesses a new and better way to acquire, engage and retain customers. Today more than 25,000 businesses, including New Relic, Sotheby's, and Shopify, use Intercom to connect with a billion unique people worldwide.
+
+Intercom is a deeply creative company with the confidence to believe it can fundamentally change the future of internet business. Our people are incredibly ambitious, yet humble. Warm, accepting, and positive. Whether you build, market, sell, or support product, we want you to make your mark with us.
+
+What's the opportunity?
+
+
+At Intercom, Analytics & Data Science teammates partner with every function in the organization in order to help teams make data-informed decisions and take data-informed actions. We're highly quantitative individuals who love to turn data into insights and communicate our findings fearlessly, and we're looking for people with a similar mindset who are constantly curious, driven to understand our business better, and committed to creating value.
+
+In this role, you will partner with go-to-market teams across Intercom (including Marketing, BizOps, Finance, Growth R&D, and Sales) to measure new initiatives and make data-driven recommendations around go-to-market strategy. In addition to being experienced analytically, we're looking for someone who can proactively surface recommendations and insights, who's comfortable prioritizing work across multiple stakeholders, and who can work across the analytics and data stack in order to solve problems. If this sounds like you, we would love to hear from you!
+
+To give you a sense of some specific projects you might work on, here are a few of our recent workstreams: understanding how users respond to new pricing & packaging, understanding and modeling drivers of expansion, analyzing the customer signup experience, measuring the performance of paid advertising campaigns, prioritizing the leads our sales team should reach out to, and many more.
+
+What will I be doing?
+Evaluating the performance of our go-to-market strategies and initiatives by analyzing customer funnels and metrics (new business, retention, CAC, LTV, churn, etc.)
+Partnering with go-to-market teams at Intercom to help them better understand their functional areas, build understanding and use of our data, and set a high bar for analytics across the organization
+Building data science models to accelerate the business by providing deeper insights into prospect and customer behaviors
+Creating dashboards that allow internal consumers to gain insight into the performance of their functional areas
+Constructing reusable data pipelines for company-wide use
+Monitoring the state of the business on a regular basis and generating data-driven hypotheses and action items in order drive business impact
+What skills do I need?
+4+ years of work experience in analytics/data science or a directly related field – some of which should be in a technology business
+A proven track record of initiating and delivering actionable analyses/recommendations in order to drive business impact
+An understanding of SaaS business models and key metrics
+Some experience building data science models to provide deeper insights
+Excellent communication skills (technical and non-technical) and comfort working with high-level stakeholders
+Ability to work autonomously in a dynamic environment
+Excellent SQL skills, fluency with BI/visualization tools, and deep knowledge of Excel, R, Python, or other analysis tools
+Strong critical reasoning skills, including understanding of common pitfalls of data analysis
+Benefits
+
+
+We are a well-treated bunch, with awesome benefits! If there's something important to you that's not on this list, talk to us! :)
+Competitive salary and meaningful equity
+Catered lunch every weekday, plus a variety of snack foods and a fully stocked kitchen
+Fully funded comprehensive medical, dental, and vision coverage
+Open vacation policy and 10 corporate holidays
+Paid Parental Leave Program
+401k plan
+In-office bicycle storage
+Fun events for Intercomrades, friends, and family!
+*Proof of eligibility to work in the United States is required.
+
+Intercom values diversity and is committed to a policy of Equal Employment Opportunity. Intercom will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally recognized protected basis under federal, state, or local law.",3.8,"Intercom
+3.8","San Francisco, CA","San Francisco, CA",501 to 1000 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+2,Data Scientist,$115K-$154K (Glassdoor Est.),"The opportunity
+
+
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. More than 20 million people around the world use our AI-powered writing assistant every day. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+
+We're looking for a Data Scientist to help us drive decision-making, find bigger opportunities, and improve our product. As a consumer internet company, we produce huge amounts of data, and in this role, you will have outsize opportunities to develop the insights to make it actionable. You will have broad impact and exposure across Grammarly, working with team members from our Product, Research, Marketing, Engineering, and Finance teams.
+
+Grammarly's engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+
+Your impact
+
+
+As a Data Scientist at Grammarly, you will help our team make better decisions by advocating for data-driven approaches across the organization. Your analysis will contribute to our strategy across the business in areas such as user acquisition, engagement, retention, and more.
+Within your first month, you will start developing a good understanding of the overall data-processing pipeline, understand a subset of Grammarly's key metrics, and complete at least two small data reports to present to relevant business owners.
+By month three, you will become an expert user of our analytical tools, start contributing to the Data Science team's projects, understand all of Grammarly's key metrics, and independently work on small-to-medium-complexity data projects (including A/B tests, channel analysis, and user engagement).
+By month six, you will start working independently on complex data projects, such as user segmentation, short- and long-term user-engagement analysis, and lifetime value projections.
+By year one, you will become the go-to person and subject-matter expert for a few of Grammarly's key metrics, own and drive projects independently with minimal supervision, and along with our other Data Scientists, ensure ""data science excellence"" at Grammarly (dashboards, high-quality reports, empowered teams, etc.).
+We're looking for someone who
+Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+Holds a PhD in a quantitative field or a masters in a quantitative field and has at least 3 years of experience working as a data scientist.
+Has experience in data analysis, A/B testing, retention tracking, etc. (consumer product experience is preferred).
+Is proficient in data mining and statistics.
+Has experience with SQL as well as experience programming in Python, R, Scala, or an equivalent language.
+Has strong analytical and critical thinking skills as well as a strong bias toward actionable insights; loves finding insights and getting others to act on them.
+Is a self-starter with superior organizational and prioritization skills.
+Support for you, professionally and personally
+Professional growth: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+A connected team: Grammarly builds products that help people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+Comprehensive benefits: Grammarly offers all team members competitive pay along with a benefits package that includes superior health care. We also offer ample and defined time off, catered lunches, gym and recreation stipends, admission discounts, and more.
+We encourage you to apply
+
+
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. Grammarly is an equal opportunity employer and participant in the U.S. Federal E-Verify program.",5.0,"Grammarly
+5.0","San Francisco, CA","San Francisco, CA",201 to 500 employees,2009,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+3,Data Scientist/Machine Learning,$93K-$149K (Glassdoor Est.),"Data Scientist/Machine Learning
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",3.8,"Juniper Networks
+3.8","Cupertino, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,₹100 to ₹500 billion (INR),-1
+4,Data Scientist (Data Analytics Specialist),$116K-$182K (Glassdoor Est.),"The Position
+
+
+As a Data Analytics Specialist you will work with clinical trial data to support Pharma Development, helping to generate new evidence and insights into our medicines to support of R&D. You will work with peers across the organization including biostatisticians, scientists, and bioinformaticians using patient level clinical data combined with digital sensor data to answer scientific questions.
+
+We are looking for someone with a passion for data who can take a broad scientific question and distill insights through code, whether that be creating an interactive visualization, a predictive model, or using inferential statistics. This includes the ability to understand the challenges and limitations of the data and thinking of innovative solutions for manipulating and aggregating our data in preparation for analysis. As our projects are done in partnership with other team members and stakeholders, a collaborative and entrepreneurial mindset is critical.
+
+We are a small global team of analysts, and you will collaborate regularly with our team members and stakeholders in South San Francisco, Welwyn, Basel, Mississauga, and Shanghai. As a Data Analytics Specialist, you will support and lead both molecule and non-molecule projects. For molecule-specific projects, you will work with the biometrics study team on tasks such as employing advanced analytical methodology to answer exploratory scientific questions, building interactive displays to promote quicker and more efficient methods for data interrogation, developing solutions to innovate biometrics workflow from data receipt to insights generation, and embedding new ways of working into the teams. Non-molecule work could involve scientific software development in R, internal infrastructure building, and supporting or leading cross-functional analytical projects.
+
+As you onboard, you will receive comprehensive mentoring to develop good coding practices along with our reproducible workflow using R packages and GitHub. Additionally you will be encouraged to attend and present at industry conferences to continuously develop your data science skill set and expand your network. At Genentech, your continued growth is important, and you will be supported through continued learning opportunities including courses, seminars,and workshops.
+
+If you are proud of contributing and feel you have the commitment to teamwork and innovation that we are seeking, then Genentech is the organisation for you. In return we offer a competitive salary plus the excellent benefits you would expect from a blue-chip organisation, including a genuine interest in your development and progression.
+
+Required Education and Experience:
+Advanced degree in biostatistics, statistics, computer science, mathematics, or the biological sciences
+Advanced hands-on R programming experience, preferably in support of clinical trial analysis
+3+ years of experience applying statistical inference and machine learning methodologies to scientific data
+Preferred Skills and Experience:
+Has a good foundation in computer science and has strong knowledge in computational statistics including statistical learning
+Has experience performing complex data manipulation in preparation for analysis
+Is familiar with established interactive data visualization packages such as Shiny, plotly, etc.
+Has experience building packages in R
+Has passion for reproducible and reusable analysis by packaging modular code, using version control, or using containerized computing environments
+Is comfortable being an advocate and resource for analytic or development best practices
+Is familiar with the regulatory framework and guidelines for pharma products
+Is able to communicate with colleagues possessing varying technical backgrounds and can negotiate effectively
+Is able to explain technical concepts to a non-technical audience; enjoys sharing learnings and mentoring peers
+Has good knowledge of English in a business environment
+Who We Are
+
+
+A member of the Roche Group, Genentech has been at the forefront of the biotechnology industry for more than 40 years, using human genetic information to develop novel medicines for serious and life-threatening diseases. Genentech has multiple therapies on the market for cancer & other serious illnesses. Please take this opportunity to learn about Genentech where we believe that our employees are our most important asset & are dedicated to remaining a great place to work.
+
+The next step is yours. To apply today, click on the ""Apply online"" button.
+
+Genentech is an equal opportunity employer & prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, disability, marital & veteran status. For more information about equal employment opportunity, visit our Genentech Careers page.
+
+Job Facts
+JOB FUNCTION
+Clinical Development COMPANY/DIVISION
+Pharmaceuticals SCHEDULE
+Full time JOB TYPE
+Regular",4.0,"Genentech
+4.0","South San Francisco, CA","South San Francisco, CA",10000+ employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,₹500+ billion (INR),-1
+5,Marketing Data Scientist,$87K-$139K (Glassdoor Est.),"Who we are:
+
+SoFi is a digital personal finance company whose mission is to help its members achieve financial independence to realize their ambitions, whether that be to buy a house one day, start a family on their own terms or be debt free. We aim to be at the center of our members financial lives, and to help every member Get Their Money Right®. By joining SoFi, youll become part of a forward-thinking company that is transforming financial services by embracing technology to build innovative loan products, investment tools, and more. One of the fastest growing fintech companies, weve grown from 250 employees in 2015 to over 1,500 employees today, and are well on our way to reaching 1 million members. With offices across the US, we offer the excitement of a rapidly growing startup with the stability of a seasoned management team and some of the best talent around. As an employer, we strive to hire employees who are committed to both our companys mission and our desire to build the best culture in the world. If you are driven, passionate about what you do, and excited about the SoFi mission, we would love to hear from you.
+
+The role:
+
+As a Marketing Data Scientist @ SoFi, you will be subject matter expert on the user journeys and flows as part of the onboarding experience in becoming a SoFi member, our internal data pipelines as well as our marketing datasets. You will also contribute to building machine learning (ML) models and solutions that touch on attribution, forecasting, and budget allocation across our marketing channels such as Programmatic, Social, Search, Lifecycle, Television and Out of Home that enable SoFi to grow at scale efficiently.
+
+What youll do:
+The key goal for this person will be to apply modeling techniques relevant to media mix modeling (MMM) optimization and multi-touch attribution (MTA) to our marketing efforts to connect the impact of marketing activities on business outcomes.
+Build and deploy models that enable marketers to allocate budgets to various channels in order to drive cross-channel optimization by product and by business objectives.
+Continue to enhance models as additional data points become available through iterative improvements to instrumentation and Martech initiatives.
+Develop models that drive personalization for member interactions on owned and paid marketing channels.
+Contribute to defining a set of SoFi attributes that will enable marketers to create and activate audiences through paid and owned channels.
+Establish processes and champion tool development to enable building ML models at scale.
+What youll need:
+At least 3 years of experience with a proven track record of end-to-end experience in model development, testing, implementation, and performance tracking
+Experience with machine learning and statistical modeling methods for supervised and unsupervised learning. These methods include (but not limited to) regression analysis, clustering, outlier detection, novelty detection, decision trees, collaborative filtering, nearest neighbors, support vector machines, ensemble methods and boosting, neural networks and deep learning, feature selection, and factorization methods and NLP.
+Write production-quality code in Python, Scala and/or R
+Strong knowledge of databases and related languages/tools such as SQL, NoSQL, Hive, etc
+Experience in deploying and operating machine-learned models on low latency, high-throughput systems such as DataBricks, AWS Sagemaker, Azure and GCP.
+Ability to work in a dynamic, cross-functional environment, with strong attention to detail
+Effective communication skills and ability to explain complex models to a diverse audience with varying technical backgrounds.
+Experience building models to optimize advertising performance and lifecycle marketing is preferred
+Familiarity with Google Marketing Platform (Adwords, Search Ads 360, DV360, Analytics), Facebook as well as other Social Media and Programmatic advertising platforms.
+Preferred Qualifications:
+Master Degree or Ph.D. in Computer Science, Statistics, Operations Research, Engineering, Mathematics, or a related quantitative field.
+Why youll love working here:
+Competitive salary packages and bonuses
+Comprehensive medical, dental, vision and life insurance benefits
+Generous vacation and holidays
+Paid parental leave for eligible employees
+401(k) and education on retirement planning
+Tuition reimbursement on approved programs
+Monthly contribution up to $200 to help you pay off your student loans
+Great health & well-being benefits including: telehealth parental support, subsidized gym program
+Employer paid lunch program (except for remote employees)
+Fully stocked kitchen (snacks and drinks)
+SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records",3.2,"SoFi
+3.2","San Francisco, CA","San Francisco, CA",1001 to 5000 employees,2011,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+6,Product Data Scientist - Ads Data Science,$124K-$198K (Glassdoor Est.),"Who We Are:
+
+
+The team is responsible for placing each and every ad that Twitter serves. While placing those ads we decide how best to balance user experience, advertiser results, and Twitter revenue. Our team optimizes supply/demand, operation points and trade-offs for the ads marketplace, as well as improve product outcomes by applying data science. We routinely deliver significant improvements to our revenue, and work in a close sync with our executive staff (including our COO & CFO) due to our direct impact on Twitter’s business.
+
+Who You Are:
+
+
+You’re a data scientist with a track record of delivering results. You find satisfaction in shipping changes that deliver measurable impact in the form of immediate revenue. You apply machine learning and data science techniques when applicable, but are just as happy to implement a simple heuristic when you find it’s as effective at driving impact to your product. You’re looking to join a strong, high-performing team.
+
+What You’ll Do:
+
+
+We’re looking for a key individual contributor to drive our advertising products forward. We decide which ads to serve billions of times a day under a sub-second setting. You will ship new features and optimize existing products. You will perform rigorous analysis, understand our advertising products, experiment, make data-driven decisions, optimize for impact, and measure performance funnels.
+
+Your team will empower you with the autonomy to make good product decisions and discover/understand the software and product stack. You’ll own significant projects end-to-end. The small teams of talented, passionate people in which you’ll work will include engineers and data scientists from across the revenue engineering organization. We work on every high-priority ads project at Twitter.
+
+Qualification:
+Experience using data intelligently to optimize product performance
+Experience performing analysis on raw event data in modern data warehouse systems
+Deep understanding of data platforms in which you’ve previously worked
+Good understanding of how to grow and shape data tools and datasets to improve data-driven decision making
+Ability to thrive in an unstructured environment, working autonomously on a strong team to find opportunity and deliver business impact
+Good understanding of (one or more of the following): Python or R
+
+
+Bonus Points:
+Past experience in adtech
+PhD or MS in computer science, machine learning, or statistics
+Good understanding of (one or more of the following): Java, Scala, or C++
+Interesting side projects or Kaggle competition results
+Equal Employment Opportunity
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran, genetic information, marital status or any other legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",4.0,"Twitter
+4.0","San Francisco, CA","San Francisco, CA",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),"Facebook, Google, Pinterest"
+7,Data Scientist,$106K-$135K (Glassdoor Est.),"About Netskope
+
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive. Visit us at netskope.com/company/careers and follow us on Twitter @Netskope and Facebook.
+
+Data Scientist
+
+
+Within Netskope Engineering, the Security Services organization is responsible for building core security products and features, such as Data Loss Prevention, Malware and Threat Prevention, Cloud Confidence Index, Breach and Anomaly Detection. We apply Artificial Intelligence and Machine Learning technologies across Netskope cloud security platform. We are looking for talented data scientists with security domain knowledge. A successful candidate has deep technical expertise in applying AI/ML technologies in security applications and/or adjacent domains, ideally has been through the entire lifecycle of an award winning security product, and must be passionate about cloud security. You will have the opportunity to work with a team of talented engineers, researchers and data scientists to solve the most challenging cloud security problems.
+
+Responsibilities:
+Identify strong AI/ML use cases in cloud security, data security and adjacent domains, leveraging Netskope's rich set of data sources;
+Define scalable data acquisition and labeling strategy for specific use cases;
+Work with data engineers to retrieve, clean and normalize data. Ensure scalable and continuous high-quality data stream;
+Work closely with threat research and development team in feature engineering. Make sure high-quality feature sets are chosen in a systematic way;
+Select ML models for defined use cases. Implement KPIs to ensure optimal algorithms and results;
+Conduct strict internal testing to ensure high efficacy, low false positive and false negative rate;
+Interpret results and communicate findings;
+Document use case, data acquisition, feature engineering, training, validation, deployment, future improvement opportunity and other important aspects;
+Work closely with development and QE team in productization;
+Be an evangelist of AI/ML within Netskope. Promote AI/ML wherever applicable, beyond security use cases;
+Collaborate with data analytics team to define new platform requirements and continuously improve our horizontally scalable data lake.
+Qualifications/Requirements:
+
+
+First of all, must have true startup spirit. Be willing to wear multiple hats and deliver end-to-end;
+Ability of thinking out-of-box and evaluating results based on customer value;
+5+ years of industry experience in applying AI/ML, preferably on well-known security products or services, such as malware detection, anomaly detection, security analytics and data security;
+Experience of applying AI/ML in more than one domains highly desirable;
+Hands-on experience with relevant technology stacks such as CUDA, Python, R, Spark, Flink, Tensorflow;
+Hands-on experience using modern big data pipeline;
+Natural language process (NLP) and data mining experience highly desirable;
+Security research experience and strong security domain knowledge highly desirable;
+Energetic self-starter, with the desire to work in a dynamic fast-paced environment;
+Excellent verbal and written communication skills;
+Ability to influence without authority
+Education:
+
+
+PhD in Computer Science, Statistics, Electrical Engineering or equivalent technical degree.
+#LI-NW1",4.2,"Twitter
+4.0","San Francisco, CA","Santa Clara, CA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Skyhigh Networks, Zscaler, NortonLifeLock"
+8,Senior Principal Data Scientist (Python/R),$212K-$331K (Glassdoor Est.),"Roche Diagnostics has built a new strategic area – Diagnostics Information Solutions (DIS) - charged with creating a modern portfolio of decision support software products that change the way patients are cared for. Our challenge is to bring together complex diagnostic and treatment data from medical devices and IT systems within a hospital and intelligently process and present this data to clinicians, researchers, and caregivers to improve research outcomes and patient care.
+
+As a Senior Principal Data Scientist within the Data Science & Services (DSS) team at DIS, you are responsible for conceptualizing, planning and executing advanced analytics projects to discover key insights improving NAVIFY product portfolio leading to better and more efficient patient care. In close cooperation with other more Scientists you will design and execute advanced analytics projects building on a wide range of commercial and research datasets containing deep medical information.
+
+As a Senior Principal Data Scientist, you will also ensure that design, execution, and presentation of analytical results are adhering to industry standards and potentially improve and redefine current industry standards. You will rely on your oncology expertise, advanced analytical skills, and your ability to interact with cross-functional experts such as biostatisticians, clinical scientists and oncologists, to discover novel insights demonstrating impact of various treatment decisions, and uncover key elements leading to best outcomes for patients. In addition, you will maintain and expand knowledge of available healthcare data sources and applicable state-of-the- art analytical methodologies, large scale data processing and visualization, and languages and tools (R, Python, (no-)SQL, Hadoop, Spark, etc.).
+
+Responsibilities Include:
+Drive data science and analytical software development teams; develop solutions to support insight generation facilitating successful development, verification and commercialization of diagnostics services and products.
+Contribute to broad product support initiatives, lead and deliver on complex projects, and interact with external partners without supervision.
+Maintain and expand knowledge and access to available and meaningful data sources within/outside Roche, and their application to NAVIFY customer needs.
+Perform high quality, timely and accurate analyses using most relevant state-of-the-art methodologies, tools and resources.
+Committed to offering innovation, finding opportunities to enhance ways of working (including processes, methods, technology etc.) and sharing new techniques and lessons learned pro-actively with peers.
+Use and continue to foster strong working relationships with global colleagues and customers and builds a strong network in order to jointly explore vendor relationships, data assets, analytical methodologies and toolsets.
+Build and maintain partnerships with other data scientists and analysts, biostatistics, medical and business leaders, and other key functional experts.
+Responsible for planning and timely delivery of assigned projects.
+Drive creation of best practices to other team members. Proactively share learnings/experience with colleagues both internal and external to the function.
+Act as a positive role model for peers and help coach colleagues to improve in their role with both technical and interpersonal skills.
+Influence as thought leader in your industry and an influential subject matter expert to your team members and the businesses you support.
+Leverage strategic organizational awareness and systems mindset to implement sustainable, science based practices.
+Who you are:
+Data savvy creative thinker, problem solver and mentor.
+Reliable team player, strong collaborator with ability to influence and a thought partner/leader. Organizationally savvy, systems thinker.
+Excellent communication skills, effective stakeholder management ability. Life learner, constructive at giving and receiving feedback.
+Strong solution finding, resiliency and a sense of ownership; Effective prioritization skills, attention to detail and accuracy; Adaptable, embraces and endorses change.
+Minimum Skills and Experience:
+Master’s degree (PhD strongly preferred) in a Data Science or related field (e.g. Computer Science, Statistics, Mathematics, Bioinformatics, etc.) required plus 16 years of experience; or PhD and 12 years of experience.
+Graduate training or experience in biological/medical field is highly preferred.
+Strong background in Oncology, either by education or professional experience.
+Strong Programming experience with R, Python, and/or other quantitative software.
+Strong experience in applying statistical modeling, machine learning, exploratory, and confirmatory data analysis in mid to large volume biomedical data sets.
+Experience using big data platforms such as Hadoop (Spark is a plus).
+In-depth knowledge of relational database principles and corresponding query language skills (e.g. SQL) is of interest.
+Familiarity with regulatory framework and guidelines for pharma/diagnostics products is a plus.
+Good knowledge of English in a business environment.
+Excellent communication skills with an ability to negotiate successfully; strong influencing skills; self-contained and outgoing approach.
+Strong solution finding, prioritization and attention to details skills while embracing/endorsing change.
+Roche is an equal opportunity employer.
+
+Research & Development, Research & Development > Modelling & Simulation",4.1,"Roche
+4.1","Pleasanton, CA","Basel, Switzerland",10000+ employees,1896,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,₹500+ billion (INR),"Novartis, AstraZeneca, Siemens Healthineers"
+9,"Data Scientist, Analytics",-1,"Outschool's mission is to inspire kids to love learning. We believe the best way to do that is by linking learning to kids’ interests, connecting them with others who share those interests, and giving them the autonomy to pick their own path. We provide small group classes that meet over live video chat where learners are connected with teachers and classmates who share their interests. These classes are offered through our marketplace and conducted on our remote learning platform.
+
+We're an experienced team with past accomplishments at Airbnb, Square, Apple, Uber, Udemy, Amazon, Google, and many startups. We came together because we wanted to make a difference in education, and saw the opportunity to empower learners, teachers, and parents. Now, in the face of mass school closures, our product and expertise has become central to many more families and organizations than ever before. Our business is growing explosively and as of July, 400,000 learners have taken more than over 1.3M class hours. We've already doubled our team so far this year to keep up with growth. As well as growing our business, we're committed to access and impact so we founded outschool.org to offer $1M in financial assistance to families in need. We're Series A stage, have raised $22M in funding and are profitable.
+
+Data plays an important role in how we make decisions at Outschool. As our second full-time Data team member, you’ll have an opportunity to work cross-functionally with teammates from Operations, Product, Marketing, and other internal teams as they tackle a variety of challenges and opportunities. You’ll help shape Outschool’s strategy by sharing key insights, digging into some of our most pressing problems, and finding creative ways to use data to improve our products and services.
+Responsibilities
+Partner with teammates across the org to translate data into insights and actions
+Define and monitor key company-wide success metrics and OKRs
+Use visualization, reporting and other tools to improve how our team accesses and interprets datasets
+Create models to identify important segmentations and predict outcomes in specific subdomains
+Build data tools that help us scale manual processes
+Prototype new data-driven features that increase value for our learners, families, and teachers
+Qualifications
+3+ years of experience in a data science or analytics role
+Expert-level SQL skills and proficient in Python or R programming
+Prior experience working with data visualization tools (eg Mode, Looker, Tableau, Metabase)
+Bachelor’s degree in a quantitative field (eg Math, Economics, Statistics, CS, Engineering)
+Strong interpersonal skills and motivated by impact
+Outschool is an equal opportunity employer. We view diversity as a moral imperative and a competitive advantage. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We plan and structure our interviews to directly assess skills and experience.",4.4,"Outschool
+4.4","San Francisco, CA","San Francisco, CA",1 to 50 employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
